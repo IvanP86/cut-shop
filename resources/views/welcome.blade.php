@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-        @vite(['resources/css/app.css','resources/sass/main.sass', 'resources/js/app.js']);
+        @vite(['resources/css/app.css','resources/sass/main.sass', 'resources/js/app.js'])
     </head>
     <body class="antialiased">
 
